@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Spotify-Clone-2.0
->>>>>>> b0c76e9cdbf478ead1e9d7fc9df1b714fd5e0d5e
+
